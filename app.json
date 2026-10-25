@@ -36,7 +36,17 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {}
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "621b385a-d065-47c1-8800-c9e3c9c5e9cd"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/621b385a-d065-47c1-8800-c9e3c9c5e9cd"
     }
   }
 }
